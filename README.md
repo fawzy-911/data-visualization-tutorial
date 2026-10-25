@@ -62,5 +62,4 @@ data-visualization-tutorial/
 ├── requirements.txt
 └── README.md
 ```
-# data-visualization-tutorial
-Matplotlib and Seaborn chart practice using the Tips dataset
+
